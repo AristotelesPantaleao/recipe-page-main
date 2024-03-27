@@ -1,7 +1,44 @@
+@font-face {
+    font-family: outfit;
+    src: url(../assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: young-serif;
+    src: url(../assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
 body{
     background-color: #FFDEAD;
 }
 
+p{
+    padding-left: 20px;
+}
+
+.container{
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+}
+
+.container img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 95%;
+}
+
+.title{
+    padding-left: 20px;
+    font-family: young-serif;
+    font-weight: normal;
+    
+}
 
 .attribution {
     font-size: 11px;
