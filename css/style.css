@@ -17,7 +17,7 @@ p{
 }
 
 .container{
-    max-width: 800px;
+    max-width: 830px;
     margin-right: auto;
     margin-left: auto;
     background-color: white;
@@ -38,6 +38,11 @@ p{
     font-family: young-serif;
     font-weight: normal;
     
+}
+
+.paragraph{
+    font-family: outfit;
+    font-size: 1.3em;
 }
 
 .attribution {
