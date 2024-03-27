@@ -16,6 +16,16 @@ p{
     padding-left: 20px;
 }
 
+h3{
+    color: #8B008B;
+    padding-left: 65px;
+}
+
+hr{
+    border: 1px solid #D3D3D3;
+    width: 95%;
+}
+
 .container{
     max-width: 830px;
     margin-right: auto;
@@ -43,6 +53,31 @@ p{
 .paragraph{
     font-family: outfit;
     font-size: 1.3em;
+}
+
+.list{
+    margin-left: 45px;
+}
+
+.list-padding{
+    padding-top: 15px;
+    font-family: outfit;
+}
+
+.list-padding2{
+    padding-top: 5px;
+    font-family: outfit;
+}
+
+.list-padding3{
+    padding-left: 10px;
+    font-family: outfit;
+}
+
+.subtitle{
+    color: #CD853F;
+    padding-left: 20px;
+    font-family: young-serif;
 }
 
 .attribution {
